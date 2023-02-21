@@ -1,2 +1,2 @@
 # odin-recipes
-This is project displays the HTML knowledge i learned from the foundations of TOP.
+This is a project that displays the HTML knowledge i have learned from the foundations of TOP.
